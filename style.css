@@ -10,7 +10,11 @@ body {
   background-color: #f9f9f9;
   color: #333;
   line-height: 1.6;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
+
+
+
 
 /* Header */
 header {
@@ -221,9 +225,5 @@ img:hover {
   to {
     transform: rotate(360deg);
   }
-}
-
-body {
-  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
