@@ -167,13 +167,7 @@ img:hover {
   }
 }
 
-.sticky-nav {
-  position: sticky;
-  top: 0;
-  background-color: #005fa3;
-  z-index: 1000;
-  padding: 10px 0;
-}
+
 
 
 .dark-mode {
